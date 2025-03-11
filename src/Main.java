@@ -10,7 +10,7 @@ public class Main {
         l1.erstelleDatei("cccc", "cccccccccccccccc");
         l1.erstelleDatei("dddd", "dddddddddddddddd");
 
-        l2.erstelleDatei("bbbb", "bbbbbbbbbbbbbbbb");
+        l2.erstelleDatei("bbbb", "bbbbbbbbbbbbbbbbb");
         l2.erstelleDatei("aaaa", "aaaaaaaaaaaaaaaa");
         l2.erstelleDatei("cccc", "cccccccccccccccc");
         l2.erstelleDatei("dddd", "dddddddddddddddd");
